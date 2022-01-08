@@ -1,4 +1,4 @@
-# D1-Mini-Dryer_Monitor
+# D1-Mini-Dryer-Monitor
 D1 mini Dryer Monitor PCB Based on Digiblur's Video https://youtu.be/NbUJPZbyXo8.
 
 3.5mm Version and Screw Terminal Version's Available. 
